@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lethobooi.github.io/mywebsite/sitemap.xml
